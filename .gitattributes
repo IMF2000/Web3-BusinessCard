@@ -1,0 +1,2 @@
+# Only this file is filtered
+contracts/contracts/OnchainCard.sol filter=redact
